@@ -20,16 +20,16 @@ var friendsArray = [
     "name":"Retsuko",
     "photo":"http://www.otakuusamagazine.com/wp-content/uploads/2018/02/aggretsuko-240x240.jpg",
     "scores":[
-        5,
-        1,
-        4,
-        4,
-        5,
-        1,
+        3,
         2,
-        5,
         4,
-        1
+        1,
+        4,
+        3,
+        2,
+        1,
+        5,
+        5
       ]
   }
 ];
